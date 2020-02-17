@@ -1,0 +1,246 @@
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\Proyecto_Consulta.dll.config
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\Proyecto_Consulta.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\Proyecto_Consulta.pdb
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\Proyecto_Consulta.xml
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\csc.exe
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\csc.exe.config
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\csc.rsp
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\csi.exe
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\csi.exe.config
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\csi.rsp
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.AppContext.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Console.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.IO.Compression.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Security.Claims.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.ValueTuple.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\vbc.exe
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\vbc.exe.config
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\vbc.rsp
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\VBCSCompiler.exe
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.vbprojAssemblyReference.cache
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.Resources.resources
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.vbproj.GenerateResource.cache
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.vbproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.vbproj.CopyComplete
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.dll
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.xml
+C:\Users\Victor\source\repos\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.pdb
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\Proyecto_Consulta.dll.config
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\Proyecto_Consulta.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\Proyecto_Consulta.pdb
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\Proyecto_Consulta.xml
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\csc.exe
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\csc.exe.config
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\csc.rsp
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\csi.exe
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\csi.exe.config
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\csi.rsp
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.AppContext.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Console.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.IO.Compression.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Security.Claims.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.ValueTuple.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\vbc.exe
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\vbc.exe.config
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\vbc.rsp
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\VBCSCompiler.exe
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.vbprojAssemblyReference.cache
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.Resources.resources
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.vbproj.GenerateResource.cache
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.vbproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.vbproj.CopyComplete
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.dll
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.xml
+C:\Users\Victor\Desktop\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.pdb
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\Proyecto_Consulta.dll.config
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\Proyecto_Consulta.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\Proyecto_Consulta.pdb
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\Proyecto_Consulta.xml
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\csc.exe
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\csc.exe.config
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\csc.rsp
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\csi.exe
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\csi.exe.config
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\csi.rsp
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.AppContext.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Collections.Immutable.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Console.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Diagnostics.Process.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.IO.Compression.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.IO.FileSystem.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.IO.Pipes.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Reflection.Metadata.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Security.AccessControl.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Security.Claims.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Threading.Thread.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.ValueTuple.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Xml.XPath.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\vbc.exe
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\vbc.exe.config
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\vbc.rsp
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\VBCSCompiler.exe
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\VBCSCompiler.exe.config
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.vbprojAssemblyReference.cache
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.Resources.resources
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.vbproj.GenerateResource.cache
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.vbproj.CoreCompileInputs.cache
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.vbproj.CopyComplete
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.dll
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.xml
+E:\Doc Instituto\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.pdb
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\Proyecto_Consulta.dll.config
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\Proyecto_Consulta.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\Proyecto_Consulta.pdb
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\Proyecto_Consulta.xml
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\csc.exe
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\csc.exe.config
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\csc.rsp
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\csi.exe
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\csi.exe.config
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\csi.rsp
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Console.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Security.Claims.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\vbc.exe
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\vbc.exe.config
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\vbc.rsp
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.Resources.resources
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.vbproj.GenerateResource.Cache
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.dll
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.xml
+C:\Users\Usuario1\Desktop\Proyecto_Consulta\Proyecto_Consulta\obj\Debug\Proyecto_Consulta.pdb
